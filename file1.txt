@@ -1,2 +1,4 @@
 This is a text inside the nano file 1 guided by Andre
 
+This is the second text guided by Sbu
+

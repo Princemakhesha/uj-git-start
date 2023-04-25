@@ -1,2 +1,4 @@
 This is the second text in the second nano file
 
+This is another message for the secon nano file guided by Sbu
+
